@@ -1,0 +1,2 @@
+Prefix plugins/SplitMEM/example
+Plugin SplitMEM inputfile parameters.txt outputfile ecoli_1kb.dot

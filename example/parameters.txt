@@ -1,0 +1,2 @@
+fasta	ecoli_1kbp.fa
+mem	10
